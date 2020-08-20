@@ -7,7 +7,7 @@ An educational trivia quiz app that helps students to help review their learning
 
 
 ## Finished App
-![Finished App](https://github.com/GavinWon/Quizzer/quizzer.gif)
+![Finished App](https://github.com/GavinWon/Quizzer/blob/master/quizzer.gif)
 
 
 
